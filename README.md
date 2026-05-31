@@ -59,6 +59,57 @@ Individual MCA Project
 * Advanced Role-based Access Control
 * Dashboard and UI Improvements
 
+## Project Screenshots
+
+### landing page
+
+![landing page](landing%20page.png)
+
+### Register Page
+
+![Register Page](Register%20page.png)
+
+### Faculty Dashboard
+
+![Faculty Dashboard](Faculty%20Dashboard.png)
+
+### Manage Attendance
+
+![Manage Attendance](Manage%20Attendance.png)
+
+### Manage Notes
+
+![Manage Notes](Manage%20Notes.png)
+
+### Manage Tasks
+
+![Manage Tasks](Manage%20Tasks.png)
+
+### Manage Timetable
+
+![Manage Timetable](Manage%20Timetable.png)
+
+### Student Dashboard
+
+![Student Dashboard](Student%20Dashboard.png)
+
+### Student Attendance
+
+![Student Attendance](Student%20Attendance.png)
+
+### Student Notes
+
+![Student Notes](Student%20Notes.png)
+
+### Student Tasks
+
+![Student Tasks](Student%20Tasks.png)
+
+### Student Timetable
+
+![Student Timetable](Student%20Timetable.png)
+
+
 ## Author
 
 Developed by AKKIREDDY CHANDINI
